@@ -1,1 +1,1 @@
-Personal prefernces repository
+Personal preferences repository
